@@ -3,6 +3,9 @@
 
 # Netflix Dashboard - Power BI Project
 
+<img width="1365" height="658" alt="Screenshot 2025-08-25 110941" src="https://github.com/user-attachments/assets/c83d3a4f-8bb2-435a-aa02-cc6f04142c96" />
+
+
 ## Overview
 This project features an interactive Power BI dashboard analyzing Netflix content data. It highlights content distribution by type, genre, country, and release year, with detailed analytics focused on both global and Indian markets.
 
@@ -35,6 +38,8 @@ This project features an interactive Power BI dashboard analyzing Netflix conten
 2. Use the Home page to navigate to Global Analytics, India Analytics, or About Us pages.
 3. Apply slicers for Country, Year, or Title to explore data.
 4. Interact with bookmarks and buttons to switch between different views.
+
+<img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/5487347b-98c6-4fdd-8ccf-dc4cfa7155ac" />
 
 ## GitHub Repository Structure
 - `Netflix_Dashboard.pbix` — Power BI report file
